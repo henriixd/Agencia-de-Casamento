@@ -1,0 +1,32 @@
+.coluna{
+    float: left;
+    width: 33.33%;
+  }
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+.text {
+  text-align: center;
+}
+.texto-esquerda {
+  text-align: left;
+}
+.texto-centro {
+  text-align: center;
+}
+.texto-direita {
+  text-align: right;
+}
+.navbarnav {
+  text-align: center;
+}
+.jumbotron{
+  background-color: #e3f2fd;
+  padding-block: 30px;
+
+}
+.container{
+  text-align: center;
+}
