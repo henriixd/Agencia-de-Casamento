@@ -19,14 +19,18 @@
 .texto-direita {
   text-align: right;
 }
-.navbarnav {
-  text-align: center;
-}
 .jumbotron{
   background-color: #e3f2fd;
   padding-block: 30px;
-
 }
 .container{
   text-align: center;
+}
+.nav-item{
+  text-align: center;
+}
+.buttons{
+  object-position: center;
+  text-align: center;
+  padding-bottom: 100px;
 }
